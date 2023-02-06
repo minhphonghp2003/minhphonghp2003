@@ -1,5 +1,5 @@
-### Hi there 👋
-🌱 I’m currently learning computer sciene. My major is software development
+<!-- ### Hi there 👋 -->
+<!-- 🌱 I’m currently learning computer sciene. My major is software development -->
 <!--
 **minhphonghp2003/minhphonghp2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
