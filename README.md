@@ -14,22 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Nguyen Minh Phong :man_technologist:\n
-Software Development :computer:
-I am a software development enthusiast with a passion for writing clean, maintainable and scalable code. I am always eager to learn new technologies and methodologies that can help me improve my skills and deliver better solutions.
+Nguyen Minh Phong 👨‍💻 🇻🇳 <br /> 
+Software Development 💻<br /> 
+I am a software development enthusiast with a passion for writing clean, maintainable and scalable code. I am always eager to learn new technologies and methodologies that can help me improve my skills and deliver better solutions.<br /> 
 
-Here are some of the technologies and programming languages that I have worked with:
+Here are some of the technologies and programming languages that I have worked with:<br /> 
 
-Java
-Python
-JavaScript
-HTML/CSS
-Git/Github
-I am always looking for opportunities to apply my skills and contribute to open-source projects. If you have an interesting project that you would like me to contribute to, please feel free to reach out.
+Java<br /> 
+Python<br /> 
+JavaScript<br /> 
+HTML/CSS<br /> 
+Git/Github<br /> 
+I am always looking for opportunities to apply my skills and contribute to open-source projects. If you have an interesting project that you would like me to contribute to, please feel free to reach out.<br /> 
 
-:email: You can contact me at phongminhnguyen3107@gmail.com
+📧 You can contact me at phongminhnguyen3107@gmail.com<br /> 
 
-:octocat: Find me on GitHub at NguyenMinhPhong
+:octocat: Find me on GitHub at NguyenMinhPhong<br /> 
+
 
 
 
