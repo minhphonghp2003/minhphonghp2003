@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=MinhNguyen%20DEV%20:man_technologist:&text2=💖%20Open%20Source&width=800&height=400)](https://github.com/minhphonghp2003)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=MinhNguyen%20DEV%20👨‍💻&text2=💖%20See%20More&width=800&height=400)](https://github.com/minhphonghp2003)
 
 Nguyen Minh Phong :man_technologist:
 Software Development :computer:
