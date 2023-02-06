@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Nguyen Minh Phong :man_technologist:
+Nguyen Minh Phong :man_technologist:\n
 Software Development :computer:
 I am a software development enthusiast with a passion for writing clean, maintainable and scalable code. I am always eager to learn new technologies and methodologies that can help me improve my skills and deliver better solutions.
 
