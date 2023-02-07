@@ -1,7 +1,7 @@
 
-<p align="center">
+
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=MinhNguyen%20DEV%20👨‍💻&text2=💖%20See%20More&width=800&height=400)](https://github.com/minhphonghp2003)
- </p>
+ 
 ## Nguyen Minh Phong :man_technologist: 🇻🇳<br /> 
 
 
