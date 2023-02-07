@@ -14,6 +14,7 @@ I am a software development(backend developer) enthusiast with a passion for wri
 > JavaScript 🇪🇸<br /> 
 > HTML/CSS :art:<br /> 
 > Git/Github :octocat:<br /> 
+> Database: Postgresql, Mysql
 
 I am always looking for opportunities to apply my skills and contribute to many projects. If you have an interesting project that you would like me to contribute to, please feel free to reach out.<br /> 
 
