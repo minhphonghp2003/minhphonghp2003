@@ -22,5 +22,5 @@ I am always looking for opportunities to apply my skills and contribute to many 
 
 :octocat: Find me on GitHub at NguyenMinhPhong<br /> 
 
-Let's create amazing things together! :rocket:
+Let's create amazing things together! :rocket:<br /> 
 ![Ellaine's github stats](https://github-readme-stats.vercel.app/api?username=minhphonghp2003&theme=merko&layout=compact)
