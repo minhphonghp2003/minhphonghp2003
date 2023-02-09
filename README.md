@@ -5,7 +5,7 @@
 
 
 ### Software Development :computer:<br /> 
-I am a software development(backend developer) enthusiast with a passion for writing clean, maintainable and scalable code. I am always eager to learn new technologies and methodologies that can help me improve my skills and deliver better solutions.<br /> 
+I am a software developer enthusiast with a passion for writing clean, maintainable and scalable code. I am always eager to learn new technologies and methodologies that can help me improve my skills and deliver better solutions.<br /> 
 
 ##### Here are some of the technologies and programming languages that I have learnt and worked with:<br /> 
 
