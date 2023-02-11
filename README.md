@@ -16,7 +16,8 @@ I am a software developer enthusiast with a passion for writing clean, maintaina
 > Git/Github :octocat:<br /> 
 > Database: Postgresql, Mysql
 
-I am always looking for opportunities to apply my skills and contribute to many projects. If you have an interesting project that you would like me to contribute to, please feel free to reach out.<br /> 
+I am always looking for new opportunities to grow and improve as a software developer. If you are looking for a motivated and skilled developer, feel free to reach out to me. I would love to discuss potential projects and collaborate with you.<br /> 
+
 
 :email: You can contact me at minhphonghp2003@gmail.com<br /> 
 
