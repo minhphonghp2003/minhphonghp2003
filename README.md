@@ -14,7 +14,8 @@ I am a software developer enthusiast with a passion for writing clean, maintaina
 > JavaScript 🇪🇸<br /> 
 > HTML/CSS :art:<br /> 
 > Git/Github :octocat:<br /> 
-> Database: Postgresql 🐘, Mysql 🐳
+> Database: Postgresql 🐘, Mysql 🐬
+> Container: Docker 🐳
 
 I am always looking for new opportunities to grow and improve as a software developer. If you are looking for a motivated and skilled developer, feel free to reach out to me. I would love to discuss potential projects and collaborate with you.<br /> 
 
