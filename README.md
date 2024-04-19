@@ -5,7 +5,7 @@
   <a href="https://linkedin.com/in/minh-nguyen-3a223616b" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-   <a href="https://profile.nguyenminhphong.website/" target="_blank">
+   <a href="https://profile.nguyenminhphong.fun/" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="25" alt="website"  />
   </a>
   <a href="https://fb.com/100071881584031" target="_blank">
