@@ -14,9 +14,9 @@
   <a href="https://instagram.com/minhh_823" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-<!---  <a href="https://www.leetcode.com/minhphonghp2003" target="_blank">
+ <a href="https://www.leetcode.com/minhphonghp2003" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="25" alt="linkedin logo"  />
-  </a>--->
+  </a>
 <h3 align="center">A passionate software developer from 🇻🇳</h3>
 </div>
 
@@ -30,7 +30,7 @@ I am a software developer enthusiast with a passion for writing clean, maintaina
 - 🌱 I’m currently learning **Spring boot**
 
 <!---- 👨‍💻 All of my projects are available at www.nguyenminhphong.website--->
-- 👨‍💻 All of my post are available at www.nguyenminhphong.fun
+- 👨‍💻 All of my posts are available at www.nguyenminhphong.fun
 - 💬 Ask me about **Java, Fo4**
 
 - 📫 How to reach me **minhphonghp2003@gmail.com**
